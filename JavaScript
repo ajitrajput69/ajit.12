@@ -1,0 +1,7 @@
+function openProject() {
+    document.getElementById("projectPopup").style.display = "block";
+}
+
+function closeProject() {
+    document.getElementById("projectPopup").style.display = "none";
+}
