@@ -1,0 +1,27 @@
+<div id="projectPopup" class="popup">
+    <div class="popup-content">
+        <span onclick="closeProject()" class="close">&times;</span>
+
+        <h2>Photocatalytic Paint Project</h2>
+
+        <p><b>Problem:</b> Increasing roadside air pollution due to vehicle emissions (NOx, CO, VOCs).</p>
+
+        <p><b>Solution:</b> Developed photocatalytic paint using Titanium Dioxide (TiO₂) that breaks pollutants using sunlight.</p>
+
+        <p><b>How it Works:</b></p>
+        <ul>
+            <li>Sunlight activates TiO₂</li>
+            <li>Creates reactive radicals</li>
+            <li>Breaks harmful gases into safe compounds</li>
+        </ul>
+
+        <p><b>Impact:</b></p>
+        <ul>
+            <li>Reduces air pollution</li>
+            <li>Improves public health</li>
+            <li>Eco-friendly & sustainable</li>
+        </ul>
+
+        <a href="ppt final.pptx" download class="btn">Download PPT</a>
+    </div>
+</div>
